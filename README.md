@@ -4,8 +4,12 @@
 
 
 🎬 برای دانلود ویدیوهای یوتیوب از این پروژه استفاده کنید :‌
-https://github.com/nikzad-avasam/youtube-dl
 
+🔗 https://github.com/nikzad-avasam/youtube-dl
+
+🚀 برای دانلود فایل از تلگرام از پروژه زیر استفاده کنید:
+
+🔗 https://github.com/nikzad-avasam/TG-Downloader
 
  
 
