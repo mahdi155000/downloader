@@ -6,6 +6,7 @@
 - [TgWsProxy_linux_amd64](./TgWsProxy_linux_amd64)
 - [nekoray-4.0.1-2024-12-12-linux-x64](./nekoray-4.0.1-2024-12-12-linux-x64)
 - [nekoray-4.0.1-2024-12-12-linux64](./nekoray-4.0.1-2024-12-12-linux64)
+- [ollama-linux-amd64.tar](./ollama-linux-amd64.tar)
 - [open-webui_amd64](./open-webui_amd64)
 - [v2rayN-linux-64](./v2rayN-linux-64)
 
